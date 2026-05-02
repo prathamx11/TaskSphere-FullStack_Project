@@ -18,6 +18,8 @@ TaskSphere is a workplace productivity and task management web application for t
 - Front-End: ReactJS, HTML, CSS, JavaScript
 - Back-End: Node.js, Express.js
 - Database: MongoDB
+
+  
 -Login Page
 <img width="1000" height="509" alt="image" src="https://github.com/user-attachments/assets/0a1dab62-c80b-47e5-b676-3b2f47129216" />
 -Admin Page
